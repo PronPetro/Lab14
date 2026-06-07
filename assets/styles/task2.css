@@ -1,0 +1,18 @@
+.section-title {
+    color: var(--accent-second);
+    font-size: 1.7em;
+    font-weight: 750;
+}
+
+.text-block {
+    margin-top: 0.5rem;
+    font-size: 1em;
+}
+
+.note {
+    font-size: 0.6em;
+    color: var(--foreground-secondary);
+    font-style: italic;
+    border-top: 1px dashed var(--foreground-secondary);
+    padding: 0.5rem;
+}

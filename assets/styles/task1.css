@@ -1,0 +1,14 @@
+.header-style--1 {
+    background-color: var(--success-bright);
+    border-left: 0.5rem solid var(--success);
+    color: black;
+    padding: 0.5rem;
+}
+
+.header-style--2 {
+    color: var(--accent);
+}
+
+.header-style--3 {
+    font-family: "Times New Roman", Times, serif;
+}

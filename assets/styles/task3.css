@@ -1,0 +1,25 @@
+header nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 0.3em;
+}
+
+.menu {
+    display: block;
+    background: var(--success-bright);
+    color: black;
+    padding: 0.5rem 3rem;
+    border-radius: 0.5rem;
+}
+
+.small {
+    font-size: 0.7em;
+    color: var(--foreground-secondary);
+    font-family: monospace;
+}
+
+footer {
+    padding: 1rem;
+    border-top: 1px dashed var(--foreground-secondary);
+}
